@@ -1,0 +1,450 @@
+2021-12-20 00:31:11,096 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-20 00:32:33,417 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-20 00:33:53,078 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-20 00:37:07,734 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-20 00:40:40,864 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-20 00:40:43,920 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-20 00:44:03,837 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-20 00:44:04,043 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-20 00:44:04,468 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-20 00:45:18,805 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-20 00:45:19,236 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-20 00:45:19,372 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-20 00:45:23,105 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-20 00:45:23,452 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-20 00:45:24,379 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-20 00:48:05,592 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-20 00:48:05,935 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-20 00:48:06,117 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-20 00:50:21,285 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-20 00:50:21,905 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-20 00:50:22,018 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-20 00:51:15,070 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-20 00:51:37,661 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-20 00:51:41,603 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-20 00:53:53,478 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-20 00:53:53,749 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-20 00:53:53,888 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-20 00:54:28,985 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-20 00:55:39,609 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-20 00:58:52,930 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-20 00:58:53,245 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-20 00:58:54,050 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-20 00:59:45,719 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-20 00:59:45,955 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-20 00:59:46,114 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-20 00:59:47,290 - com.inetBanking.testClasses.BaseClass -INFO - 123
+2021-12-20 01:00:29,138 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-20 01:00:29,480 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-20 01:00:29,639 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-20 01:00:30,462 - com.inetBanking.testClasses.BaseClass -INFO - 123
+2021-12-20 01:01:46,170 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-20 01:01:46,397 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-20 01:01:46,708 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-20 01:01:47,649 - com.inetBanking.testClasses.BaseClass -INFO - 
+2021-12-20 01:04:23,536 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-20 01:04:23,824 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-20 01:04:24,174 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-20 01:04:25,174 - com.inetBanking.testClasses.BaseClass -INFO - 
+2021-12-20 01:05:23,592 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-20 01:05:23,965 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-20 01:05:24,180 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-20 01:05:24,181 - com.inetBanking.testClasses.BaseClass -INFO - 1234
+2021-12-20 01:05:26,263 - com.inetBanking.testClasses.BaseClass -INFO - 
+2021-12-20 01:05:27,038 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-20 01:05:27,734 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-20 01:05:27,893 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-20 01:05:27,893 - com.inetBanking.testClasses.BaseClass -INFO - 1234
+2021-12-20 01:05:29,748 - com.inetBanking.testClasses.BaseClass -INFO - 
+2021-12-20 01:06:02,106 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-20 01:06:03,437 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-20 01:06:03,655 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-20 01:06:05,006 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-20 01:06:05,358 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-20 01:06:05,525 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-20 01:06:05,860 - com.inetBanking.testClasses.BaseClass -INFO - 1234
+2021-12-20 01:06:05,869 - com.inetBanking.testClasses.BaseClass -INFO - 
+2021-12-20 01:06:06,822 - com.inetBanking.testClasses.BaseClass -INFO - 1234
+2021-12-20 01:06:06,829 - com.inetBanking.testClasses.BaseClass -INFO - 
+2021-12-20 01:06:36,186 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-20 01:06:36,500 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-20 01:06:36,804 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-20 01:06:37,570 - com.inetBanking.testClasses.BaseClass -INFO - 1234
+2021-12-20 01:06:37,571 - com.inetBanking.testClasses.BaseClass -INFO - 
+2021-12-20 01:07:47,850 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-20 01:07:48,350 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-20 01:07:48,744 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-20 01:07:49,501 - com.inetBanking.testClasses.BaseClass -INFO - 
+2021-12-20 01:07:49,510 - com.inetBanking.testClasses.BaseClass -INFO - 123
+2021-12-20 01:14:23,621 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-20 01:14:23,887 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-20 01:14:24,174 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-20 01:14:25,520 - com.inetBanking.testClasses.BaseClass -INFO - 123
+2021-12-20 01:15:13,397 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-20 01:15:14,017 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-20 01:15:14,131 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-20 01:15:15,073 - com.inetBanking.testClasses.BaseClass -INFO - 123
+2021-12-20 01:15:15,074 - com.inetBanking.testClasses.BaseClass -INFO - GetTitle testcase passed
+2021-12-21 20:42:50,000 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-21 20:42:51,002 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-21 20:42:51,144 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-21 20:42:52,282 - com.inetBanking.testClasses.BaseClass -INFO - 123
+2021-12-21 20:42:52,283 - com.inetBanking.testClasses.BaseClass -INFO - GetTitle testcase passed
+2021-12-21 22:24:26,284 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-21 22:24:26,582 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-21 22:24:26,799 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-21 22:24:27,880 - com.inetBanking.testClasses.BaseClass -INFO - 123
+2021-12-21 22:24:27,881 - com.inetBanking.testClasses.BaseClass -INFO - GetTitle testcase passed
+2021-12-21 22:27:04,478 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-21 22:27:06,119 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-21 22:27:06,259 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-21 22:27:10,224 - com.inetBanking.testClasses.BaseClass -INFO - GetTitle testcase passed
+2021-12-22 00:14:18,795 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-22 00:14:20,224 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-22 00:14:21,954 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-22 00:14:26,713 - com.inetBanking.testClasses.BaseClass -INFO - GetTitle testcase passed
+2021-12-22 00:21:34,439 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-22 00:21:34,906 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-22 00:21:36,483 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-22 00:21:41,352 - com.inetBanking.testClasses.BaseClass -INFO - GetTitle testcase passed
+2021-12-22 00:25:39,121 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-22 00:25:39,342 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-22 00:25:39,718 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-22 00:25:40,913 - com.inetBanking.testClasses.BaseClass -INFO - GetTitle testcase passed
+2021-12-22 00:30:29,299 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-22 00:30:29,538 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-22 00:30:30,048 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-22 00:30:33,168 - com.inetBanking.testClasses.BaseClass -INFO - GetTitle testcase passed
+2021-12-22 00:32:13,638 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-22 00:32:13,904 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-22 00:32:14,473 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-22 00:32:15,441 - com.inetBanking.testClasses.BaseClass -INFO - GetTitle testcase passed
+2021-12-22 00:40:39,772 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-22 00:40:40,367 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-22 00:40:40,922 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-22 00:40:41,107 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-22 00:40:41,445 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-22 00:40:41,460 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-22 00:40:42,992 - com.inetBanking.testClasses.BaseClass -INFO - GetTitle testcase passed
+2021-12-22 00:40:43,242 - com.inetBanking.testClasses.BaseClass -INFO - GetTitle testcase passed
+2021-12-22 00:44:56,385 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-22 00:44:56,554 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-22 00:44:56,972 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-22 00:44:57,721 - com.inetBanking.testClasses.BaseClass -INFO - GetTitle testcase passed
+2021-12-22 00:55:37,916 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-22 00:55:38,623 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-22 00:55:42,768 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-22 00:55:44,397 - com.inetBanking.testClasses.BaseClass -INFO - GetTitle testcase passed
+2021-12-22 00:57:14,062 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-22 00:57:14,776 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-22 00:57:15,109 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-22 00:57:16,350 - com.inetBanking.testClasses.BaseClass -INFO - GetTitle testcase passed
+2021-12-22 00:59:36,586 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-22 00:59:36,764 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-22 00:59:36,921 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-22 00:59:38,234 - com.inetBanking.testClasses.BaseClass -INFO - GetTitle testcase passed
+2021-12-22 01:00:43,180 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-22 01:00:43,703 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-22 01:00:43,854 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-22 01:00:45,129 - com.inetBanking.testClasses.BaseClass -INFO - GetTitle testcase passed
+2021-12-22 01:01:15,362 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-22 01:01:15,637 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-22 01:01:15,794 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-22 01:01:16,701 - com.inetBanking.testClasses.BaseClass -INFO - GetTitle testcase passed
+2021-12-22 01:03:33,165 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-22 01:03:33,335 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-22 01:03:33,717 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-22 01:03:34,574 - com.inetBanking.testClasses.BaseClass -INFO - GetTitle testcase passed
+2021-12-22 01:05:32,330 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-22 01:05:32,605 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-22 01:05:32,728 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-22 01:05:33,695 - com.inetBanking.testClasses.BaseClass -INFO - GetTitle testcase passed
+2021-12-22 01:08:37,407 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-22 01:08:37,606 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-22 01:08:37,984 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-22 01:10:36,169 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-22 01:10:36,745 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-22 01:10:36,932 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-23 22:18:55,651 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-23 22:18:56,137 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-23 22:18:56,319 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-23 22:22:59,798 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-23 22:23:10,036 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-23 22:23:10,381 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-23 22:24:32,790 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-23 22:24:54,394 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-23 22:24:54,738 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-23 22:25:57,443 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-23 22:26:43,864 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-23 22:26:45,858 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-23 22:28:44,229 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-23 22:28:53,687 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-23 22:28:53,823 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-23 22:29:13,813 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-23 22:29:14,462 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-23 22:29:14,588 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-23 22:29:38,654 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-23 22:30:33,632 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-23 22:30:35,709 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-23 22:37:13,921 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-23 22:37:14,218 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-23 22:37:14,370 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-23 22:38:50,290 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-23 22:38:50,529 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-23 22:38:50,965 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-23 22:39:04,188 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-23 22:39:04,350 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-23 22:39:04,489 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-23 22:46:09,552 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-23 22:46:09,723 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-23 22:46:10,050 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2021-12-23 22:47:26,179 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2021-12-23 22:47:26,459 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2021-12-23 22:47:26,940 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-02 21:48:59,951 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-02 21:49:00,738 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-02 21:49:00,882 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-02 21:57:52,759 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-02 21:57:52,982 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-02 21:57:53,200 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-02 22:42:47,879 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-02 22:42:48,111 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-02 22:42:48,658 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-02 22:51:49,042 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-02 22:51:49,360 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-02 22:51:49,588 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-02 22:53:37,251 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-02 22:53:37,443 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-02 22:53:37,937 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-02 22:54:44,651 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-02 22:54:44,905 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-02 22:54:45,303 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-02 22:55:06,635 - com.inetBanking.testClasses.BaseClass -INFO - GetTitle testcase passed
+2022-01-02 22:55:52,530 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-02 22:55:52,995 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-02 22:55:53,247 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-02 22:56:40,930 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-02 22:56:41,120 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-02 22:56:41,212 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-02 22:56:46,254 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-02 22:56:47,296 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-02 22:56:47,445 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-02 22:58:16,480 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-02 22:58:16,644 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-02 22:58:16,773 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-02 22:58:27,125 - com.inetBanking.testClasses.BaseClass -INFO - GetTitle testcase passed
+2022-01-02 22:59:02,503 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-02 22:59:02,883 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-02 22:59:03,126 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-02 22:59:50,671 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-02 22:59:50,990 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-02 22:59:51,141 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-02 23:04:00,825 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-02 23:04:01,013 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-02 23:04:01,162 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-02 23:05:48,917 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-02 23:05:49,202 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-02 23:05:49,468 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-02 23:05:50,252 - com.inetBanking.testClasses.BaseClass -INFO - GetTitle testcase passed
+2022-01-02 23:06:27,924 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-02 23:06:28,164 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-02 23:06:28,317 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-02 23:06:42,436 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-02 23:06:43,111 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-02 23:06:43,236 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-02 23:08:40,207 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-02 23:08:40,485 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-02 23:08:40,883 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-02 23:17:07,117 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-02 23:17:07,713 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-02 23:17:07,851 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-02 23:21:00,620 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-02 23:21:00,885 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-02 23:21:01,034 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-02 23:21:59,629 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-02 23:21:59,814 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-02 23:22:00,134 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-02 23:23:42,622 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-02 23:23:42,961 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-02 23:23:43,108 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-02 23:26:40,843 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-02 23:26:41,646 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-02 23:26:41,841 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-02 23:30:14,119 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-02 23:30:14,410 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-02 23:30:14,949 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-02 23:30:15,873 - com.inetBanking.testClasses.BaseClass -INFO - GetTitle testcase passed
+2022-01-02 23:33:03,515 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-02 23:33:03,834 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-02 23:33:03,866 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-02 23:33:04,226 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-02 23:33:04,480 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-02 23:33:05,068 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-02 23:35:52,900 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-02 23:35:53,140 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-02 23:35:53,275 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-02 23:39:11,361 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-02 23:39:11,498 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-02 23:39:11,751 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-02 23:39:13,681 - com.inetBanking.testClasses.BaseClass -INFO - GetTitle testcase passed
+2022-01-03 20:31:15,781 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 20:31:19,046 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 20:31:22,464 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 20:31:24,663 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 20:31:27,553 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 21:26:51,829 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 21:27:02,500 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 21:27:08,911 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 21:27:10,437 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 21:27:14,327 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 22:36:21,806 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 22:36:26,761 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 22:36:31,107 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 22:36:32,420 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 22:36:35,279 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 22:37:39,059 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 22:37:43,864 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 22:37:46,219 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 22:37:48,795 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 22:37:51,133 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 22:42:34,866 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 22:42:35,754 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 22:42:36,252 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 22:42:36,734 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 22:42:37,147 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 22:55:15,274 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 22:56:51,083 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 23:02:43,633 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 23:02:43,685 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 23:02:44,123 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-03 23:02:44,289 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-03 23:02:44,425 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-03 23:02:44,606 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-03 23:02:46,442 - com.inetBanking.testClasses.BaseClass -INFO - GetTitle testcase passed
+2022-01-03 23:02:52,346 - com.inetBanking.testClasses.BaseClass -INFO - GetTitle testcase passed
+2022-01-03 23:03:33,715 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 23:03:33,913 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-03 23:03:34,036 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-03 23:20:44,916 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 23:22:49,539 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 23:22:49,724 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-03 23:22:49,831 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-03 23:23:43,612 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 23:23:43,807 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-03 23:23:44,063 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-03 23:23:45,104 - com.inetBanking.testClasses.BaseClass -INFO - GetTitle testcase passed
+2022-01-03 23:24:27,221 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 23:24:29,336 - com.inetBanking.testClasses.BaseClass -INFO - Testcase passed
+2022-01-03 23:24:29,943 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 23:24:31,417 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 23:24:32,886 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 23:24:33,984 - com.inetBanking.testClasses.BaseClass -INFO - Testcase passed
+2022-01-03 23:24:34,384 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 23:26:59,956 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 23:27:01,715 - com.inetBanking.testClasses.BaseClass -INFO - Testcase passed
+2022-01-03 23:27:02,139 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 23:27:02,821 - com.inetBanking.testClasses.BaseClass -INFO - Testcase failed
+2022-01-03 23:27:03,863 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 23:27:04,422 - com.inetBanking.testClasses.BaseClass -INFO - Testcase failed
+2022-01-03 23:27:05,329 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 23:27:06,355 - com.inetBanking.testClasses.BaseClass -INFO - Testcase passed
+2022-01-03 23:27:06,846 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 23:27:07,435 - com.inetBanking.testClasses.BaseClass -INFO - Testcase failed
+2022-01-03 23:46:50,957 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 23:46:52,193 - com.inetBanking.testClasses.BaseClass -INFO - Testcase failed
+2022-01-03 23:46:53,653 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 23:46:54,437 - com.inetBanking.testClasses.BaseClass -INFO - Testcase failed
+2022-01-03 23:46:55,485 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-03 23:46:56,254 - com.inetBanking.testClasses.BaseClass -INFO - Testcase failed
+2022-01-04 09:38:20,257 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-04 09:38:21,136 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-04 09:38:21,241 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-04 09:38:25,550 - com.inetBanking.testClasses.BaseClass -INFO - providing customer details....
+2022-01-04 09:41:37,869 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-04 09:41:38,076 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-04 09:41:38,488 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-04 09:41:42,306 - com.inetBanking.testClasses.BaseClass -INFO - providing customer details....
+2022-01-04 22:49:06,469 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-04 22:49:07,091 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-04 22:49:07,195 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-04 22:49:12,558 - com.inetBanking.testClasses.BaseClass -INFO - providing customer details....
+2022-01-04 22:55:16,094 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-04 22:55:16,289 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-04 22:55:16,522 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-04 22:55:20,683 - com.inetBanking.testClasses.BaseClass -INFO - providing customer details....
+2022-01-04 22:59:51,056 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-04 22:59:51,229 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-04 22:59:51,343 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-04 22:59:55,156 - com.inetBanking.testClasses.BaseClass -INFO - providing customer details....
+2022-01-04 23:00:50,628 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-04 23:00:50,877 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-04 23:00:51,147 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-04 23:00:56,017 - com.inetBanking.testClasses.BaseClass -INFO - providing customer details....
+2022-01-04 23:12:17,963 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-04 23:12:18,193 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-04 23:12:18,367 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-04 23:12:31,516 - com.inetBanking.testClasses.BaseClass -INFO - providing customer details....
+2022-01-04 23:23:26,723 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-04 23:23:26,945 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-04 23:23:27,238 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-04 23:23:45,726 - com.inetBanking.testClasses.BaseClass -INFO - providing customer details....
+2022-01-04 23:26:25,129 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-04 23:26:25,369 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-04 23:26:25,662 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-04 23:26:29,718 - com.inetBanking.testClasses.BaseClass -INFO - providing customer details....
+2022-01-04 23:28:50,415 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-04 23:28:50,614 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-04 23:28:50,768 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-04 23:28:54,188 - com.inetBanking.testClasses.BaseClass -INFO - providing customer details....
+2022-01-04 23:30:10,027 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-04 23:30:10,250 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-04 23:30:10,487 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-04 23:30:59,406 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-04 23:30:59,638 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-04 23:30:59,947 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-07 09:29:04,103 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-07 09:29:07,893 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-07 09:29:08,208 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-08 10:35:34,542 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-08 10:35:35,054 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-08 10:35:35,318 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-08 10:35:35,532 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-08 10:35:35,616 - com.inetBanking.testClasses.BaseClass -INFO - username entered
+2022-01-08 10:35:35,737 - com.inetBanking.testClasses.BaseClass -INFO - password entered
+2022-01-08 10:35:38,354 - com.inetBanking.testClasses.BaseClass -INFO - providing customer details....
+2022-01-08 10:35:39,158 - com.inetBanking.testClasses.BaseClass -INFO - providing customer details....
+2022-01-08 10:35:50,527 - com.inetBanking.testClasses.BaseClass -INFO - validation started....
+2022-01-08 10:35:50,559 - com.inetBanking.testClasses.BaseClass -INFO - test case failed....
+2022-01-08 10:35:51,648 - com.inetBanking.testClasses.BaseClass -INFO - validation started....
+2022-01-08 10:35:51,667 - com.inetBanking.testClasses.BaseClass -INFO - test case failed....
+2022-01-16 22:01:22,080 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-16 22:03:04,419 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-16 22:03:06,215 - com.inetBanking.testClasses.BaseClass -INFO - Testcase failed
+2022-01-16 22:03:07,960 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-16 22:03:08,595 - com.inetBanking.testClasses.BaseClass -INFO - Testcase failed
+2022-01-16 22:03:10,130 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-16 22:03:10,841 - com.inetBanking.testClasses.BaseClass -INFO - Testcase failed
+2022-01-16 22:03:12,290 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-16 22:03:12,921 - com.inetBanking.testClasses.BaseClass -INFO - Testcase failed
+2022-01-16 22:03:13,911 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-16 22:03:14,661 - com.inetBanking.testClasses.BaseClass -INFO - Testcase failed
+2022-01-21 17:32:07,423 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-21 17:32:09,259 - com.inetBanking.testClasses.BaseClass -INFO - Testcase failed
+2022-01-21 17:32:10,503 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-21 17:32:11,238 - com.inetBanking.testClasses.BaseClass -INFO - Testcase failed
+2022-01-21 17:32:12,566 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-21 17:32:13,202 - com.inetBanking.testClasses.BaseClass -INFO - Testcase failed
+2022-01-21 17:32:14,320 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-21 17:32:14,965 - com.inetBanking.testClasses.BaseClass -INFO - Testcase failed
+2022-01-21 17:32:16,214 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-21 17:32:16,808 - com.inetBanking.testClasses.BaseClass -INFO - Testcase failed
+2022-01-30 11:03:41,284 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-30 11:03:42,669 - com.inetBanking.testClasses.BaseClass -INFO - Testcase failed
+2022-01-30 11:03:44,166 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-30 11:03:44,763 - com.inetBanking.testClasses.BaseClass -INFO - Testcase failed
+2022-01-30 11:03:45,942 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-30 11:03:46,535 - com.inetBanking.testClasses.BaseClass -INFO - Testcase failed
+2022-01-30 11:03:47,392 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-30 11:03:48,024 - com.inetBanking.testClasses.BaseClass -INFO - Testcase failed
+2022-01-30 11:03:49,135 - com.inetBanking.testClasses.BaseClass -INFO - URL entered
+2022-01-30 11:03:49,677 - com.inetBanking.testClasses.BaseClass -INFO - Testcase failed
